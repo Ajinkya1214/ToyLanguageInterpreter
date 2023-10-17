@@ -1,0 +1,5 @@
+d = 123
+a= 13 + d
+print a
+d = a + d
+print d
