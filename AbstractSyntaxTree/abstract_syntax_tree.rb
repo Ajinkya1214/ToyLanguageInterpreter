@@ -1,4 +1,4 @@
-require '/Users/ajinkya/Documents/Compiler/ToyLanguageIntepreter/SemanticAnalysis/grammar.rb'
+require '../SemanticAnalysis/grammar'
 
 class AST
   # define node types
